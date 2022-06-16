@@ -1,0 +1,11 @@
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\bin\Debug\FormApp.exe
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\bin\Debug\FormApp.pdb
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\obj\Debug\FormApp.csproj.AssemblyReference.cache
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\obj\Debug\FormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\obj\Debug\FormApp.Form1.resources
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\obj\Debug\FormApp.exe
+C:\Users\10123467\Desktop\Kadir\Proje\Github\GaussYokEtme\GaussYokEtmeForm\GaussYokEtmeForm\FormApp\obj\Debug\FormApp.pdb
